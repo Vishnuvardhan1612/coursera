@@ -1,2 +1,2 @@
 # coursera
-single page angular js
+single page angularjs
